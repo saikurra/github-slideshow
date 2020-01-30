@@ -1,0 +1,3 @@
+Publuc class me{
+
+}
